@@ -1,0 +1,64 @@
+.total {
+display: flex;
+border: 1px  solid #000;
+padding: ;
+}
+
+
+
+
+
+.school {
+display: flex;
+flex-direction: column;
+background-color: lightgreen;
+
+padding: 5px;
+
+}
+
+.Gyminastic {
+
+background-color: lightblue;
+padding: auto;
+
+}
+
+.Gyminastic {
+
+background-color: lightblue;
+padding: 10px;
+margin-right: -1384px;
+
+}
+.anouncements {
+
+  background-color:#F4F1C5 ;
+margin-right: -1384px;
+  padding: 10px;
+}
+.topic1 {
+
+  background-color:#F4F1C5 ;
+margin-right: -1384px;
+  padding: 10px;
+}
+.topic2{
+
+  background-color:#F4F1C5 ;
+margin-right: -1384px;
+  padding: 10px;
+}
+
+.topic3{
+
+  background-color:#F4F1C5 ;
+margin-right: -1384px;
+  padding: 10px;
+}
+.topic4{
+
+  background-color:#F4F1C5 ;
+margin-right: -1384px;
+  padding: 10px;
+}
